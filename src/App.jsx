@@ -4,7 +4,7 @@ import WorkSection from "./pages/WorkSection";
 
 const App = () => {
   return (
-    <div className=" flex flex-col gap-11 font-sans">
+    <div className=" flex flex-col gap-11 font-poppins">
       <HeroSection />
       <WorkSection />
       <FooterSection />

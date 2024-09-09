@@ -9,10 +9,10 @@ const HeroSection = () => {
   return (
     <div className="flex flex-row w-[100%] h-[800px] md:h-screen bg-[radial-gradient(ellipse_at_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black shadow-2xl ">
       <div className=" flex flex-col lg:w-[50%]  justify-center items-center md:items-start lg:gap-5 gap-11 px-11">
-        <h1 className="text-white md:text-8xl font-normal text-6xl tracking-wide">
+        <h1 className="text-white md:text-8xl font-light text-6xl tracking-wide  ">
           Hi there,
         </h1>
-        <p className="text-white text-center md:text-start text-xl  font-light ">
+        <p className="text-white text-center md:text-start font-extralight text-xl  font-light ">
           My name is Ian Dunkerley, a front-end developer based in Torquay,
           Devon, UK. I have worked on a wide range of front-end projects, from
           DJ applications to eCommerce booking platforms, with a focus on
