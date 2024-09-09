@@ -52,7 +52,7 @@ const WorkSection = () => {
     <div>
       <div className=" flex flex-col items-center justify-center gap-5">
         <h1 className=" text-6xl">My works</h1>
-        <p className="text-2xl">List of works </p>
+        <p className="text-lg">List of works </p>
       </div>
       <div className=" flex flex-wrap items-center gap-5 justify-around">
         {listWorks.map((work) => (
