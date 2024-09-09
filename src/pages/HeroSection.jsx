@@ -7,7 +7,7 @@ import CallIcon from "@mui/icons-material/Call";
 
 const HeroSection = () => {
   return (
-    <div className="flex flex-row w-[100%] h-[800px] md:h-screen bg-[radial-gradient(ellipse_at_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black shadow-2xl ">
+    <div className="flex flex-row w-[100%] h-[800px] md:h-screen bg-[radial-gradient(ellipse_at_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black  ">
       <div className=" flex flex-col lg:w-[50%]  justify-center items-center md:items-start lg:gap-5 gap-11 px-11">
         <h1 className="text-white md:text-8xl font-light text-6xl tracking-wide  ">
           Hi there,
