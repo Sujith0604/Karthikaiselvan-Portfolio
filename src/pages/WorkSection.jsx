@@ -51,7 +51,7 @@ const WorkSection = () => {
   return (
     <div>
       <div className=" flex flex-col items-center justify-center gap-5">
-        <h1 className=" text-6xl">My works</h1>
+        <h1 className=" md:text-6xl text-5xl">My works</h1>
         <p className="text-lg">List of works </p>
       </div>
       <div className=" flex flex-wrap items-center gap-5 justify-around">

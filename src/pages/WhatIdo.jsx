@@ -2,7 +2,9 @@ const WhatIdo = () => {
   return (
     <div className=" flex flex-col md:h-screen justify-around gap-5">
       <div className=" flex flex-col gap-5">
-        <h1 className="text-6xl font-light text-center">What I Do</h1>
+        <h1 className="md:text-6xl text-5xl font-light text-center">
+          What I Do
+        </h1>
         <p className="text-lg text-center">
           I am a passionate front-end developer and UI/UX designer. I specialize
           in building user-friendly and accessible interfaces.
